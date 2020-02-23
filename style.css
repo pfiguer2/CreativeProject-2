@@ -1,0 +1,68 @@
+#image {
+  display: flex;
+  justify-content: center;
+}
+
+
+#RandomFacts {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background-color: #e86e7f;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  margin: 4px 2px;
+  font-family: 'PT Sans';
+
+}
+
+.Button {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background-color: #414243;
+}
+
+h1 {
+  font-family: 'Lacquer';
+  color: white;
+  font-size: 35pt;
+}
+
+#image {
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+  padding-bottom:100px;
+}
+
+.footer {
+  background: #e86e7f;
+}
+
+.footer .footer-bottom {
+  background: #e86e7f;
+  color: #ffffff;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  padding-top: 20px;
+  margin-top: 100px;
+}
+
+a {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'PT Sans';
+}
